@@ -1,5 +1,5 @@
 let Child = memo(function () {
-    console.log('test01main')
+    console.log('main')
 
     return <div>子供</div>
 })
